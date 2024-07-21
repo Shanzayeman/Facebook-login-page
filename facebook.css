@@ -1,0 +1,22 @@
+#sun{
+    margin-top: 2%;
+    margin-left: 1.5%;
+}
+#bun{
+    text-align: center;
+    background-color: blue;
+    color: aliceblue;
+    margin-left: 39%;
+    margin-top: 2%;
+}
+#mon{
+    text-align: center;
+    text-decoration: none;
+    margin-left: 28%;
+    color: rgb(23, 23, 165);
+}
+#gen{
+    background-color: rgb(19, 175, 19);
+    color: white;
+    margin-left:28%;
+}
